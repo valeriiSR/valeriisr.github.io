@@ -15,6 +15,6 @@
 4. [Контроллеры VIDEON - Верстка](https://videon.svrprojects.ru) | [на GitHub](https://github.com/valeriiSR/videon)
 5. [CMS example on JS - pure JavaScript](https://jscms.svrprojects.ru/) | [на GitHub](https://github.com/valeriiSR/siteEditorJS)
 6. [Сервис создания цветовой палитры - JavaScript](https://colorsui.svrprojects.ru/) | [на GitHub](https://github.com/valeriiSR/colorsui)
-7. [Музыкальный плеер на JS](http://example.com)
-8. [Сайт аналог Wildberries](http://example.com)
+7. [Музыкальный плеер на JS](#)
+8. [Сайт аналог Wildberries](#)
 9. [shop on React](#)
