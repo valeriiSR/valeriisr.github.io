@@ -17,3 +17,4 @@
 6. [Сервис создания цветовой палитры - JavaScript](https://colorsui.svrprojects.ru/) | [на GitHub](https://github.com/valeriiSR/colorsui)
 7. [Музыкальный плеер на JS](http://example.com)
 8. [Сайт аналог Wildberries](http://example.com)
+9. [shop on React](http://example.com)
