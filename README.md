@@ -1,9 +1,9 @@
 # Работы для портфолио
 
 ## Исполльзуемые технологии
-- HTML
-- CSS
-- JavaScript
+- HTML5
+- CSS3
+- JavaScript (ES6)
 - React
 - PHP
 
